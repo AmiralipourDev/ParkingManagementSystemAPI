@@ -6,6 +6,14 @@
 
 ---
 
+##### First of all, to use this project, you must have the required Python packages. For this purpose, enter the following code in the terminal:
+
+``` py
+pip install -r requirements.txt
+```
+
+---
+
 ##### On the first page, we have the api root that you can see in the picture and the links that each redirect to a link.
 
 [![apiroot.png](https://i.postimg.cc/YqD6qyDZ/1.png)](https://postimg.cc/LnfYxvp3 "api root")
